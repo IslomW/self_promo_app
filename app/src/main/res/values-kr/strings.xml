@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ㅇㄴㅇㅁㄴㅇㅁ</string>
+    <string name="hint_contact_name">담당자 이름</string>
+    <string name="hint_contact_number">담당자 번호</string>
+    <string name="hint_my_display_name">My Display Name</string>
+    <string name="text_include_junior">Include Junior</string>
+    <string name="text_immediate_start">Immediate Start</string>
+    <string name="hint_avilable_from_date">Avilable from Date</string>
+    <string name="text_preview_message">Preview Message</string>
+
+</resources>
